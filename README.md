@@ -1,5 +1,5 @@
 # CBPE
-The estimation of model performance on unseen data
+**Title:** The estimation of model performance on unseen data
 
 Link to the paper: https://studenttheses.uu.nl/handle/20.500.12932/44950
 
